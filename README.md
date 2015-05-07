@@ -11,3 +11,4 @@ It's also ensuring that nothing was left out, and doublechecking for any unconve
 
 When that is Completed, it the redirects you to the new url, and invokes the component found in the com file.
 
+Tested on ColdFusion 7+, Railo 4
